@@ -1,0 +1,27 @@
+.tableauplaceholder{
+
+    
+}
+
+.bg-primary {
+  --bs-bg-opacity: 1;
+  background-color: rgba(249, 116, 227, 1) !important;
+}
+
+.text-primary {
+  --bs-text-opacity: 1;
+  color: rgba(249, 116, 227, 1) !important;
+}
+
+a {
+  color: rgba(249, 116, 227, 1);
+  text-decoration: underline;
+}
+
+.listtext {
+font-size: 16px;
+}
+
+.secondlisttext {
+  font-size: 16px;
+  }
